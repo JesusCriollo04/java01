@@ -21,11 +21,12 @@ public class Mavenproject2 {
         altura= input.nextDouble();
         respuesta=(base*altura)/2;
         System.out.print("El area del triangulo es: " + respuesta);
-        System.out.println("#################################");
+        System.out.println("################");
         System.out.println("Area del circulo");
         System.out.println("Ingresar radio del circulo: ");
         radio= input.nextDouble();
         respuesta=pi*radio*radio;
         System.out.println("El area del circulo es: "+ respuesta);
+        System.out.print("holaaaa");
     }
 }
